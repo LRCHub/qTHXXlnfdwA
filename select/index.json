@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "新幹線でひたすら席蹴られるリンちゃん/鏡音リン",
+  "base_artist": "ゆかてふ",
+  "createdAt": "2026-01-07T12:31:16.313389Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新幹線でひたすら席蹴られるリンちゃん (feat. 鏡音リン)",
+      "artist": "ゆかてふ",
+      "has_synced": false,
+      "path": "select/pl_01_新幹線でひたすら席蹴られるリンちゃん_(feat._鏡音リン)_ゆかてふ.txt"
+    }
+  ]
+}
